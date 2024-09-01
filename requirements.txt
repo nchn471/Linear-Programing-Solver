@@ -1,0 +1,6 @@
+tk
+pandas
+matplotlib
+pandastable
+numpy
+scipy
