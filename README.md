@@ -36,8 +36,8 @@ This application solves linear programming problems using various methods such a
      ```
 
 ## IV. Demo 
-![](asssets/1.png)
-![](asssets/2.png)
-![](asssets/3.png)
-![](asssets/4.png)
+![](assets/1.png)
+![](assets/2.png)
+![](assets/3.png)
+![](assets/4.png)
 
