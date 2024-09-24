@@ -1,4 +1,4 @@
-# Linear Programming Graphical Solver
+# Linear Programming Solver
 
 This application solves linear programming problems using various methods such as the Graphical Method, Dantzig Simplex Method, and Bland's Simplex Method, implemented in Python.
 
